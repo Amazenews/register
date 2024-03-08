@@ -1,0 +1,11 @@
+{
+  "description": "rajpolu.is-a.dev",
+  "repo": "https://github.com/rajpolu/rajpolu.github.io",
+  "owner": {
+    "username": "rajpolu",
+    "email": "rajasekharreddypolu@gmail.com"
+  },
+  "record": {
+    "CNAME": "rajpolu.github.io"
+  }
+}
